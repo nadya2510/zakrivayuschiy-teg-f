@@ -119,11 +119,10 @@
 .card__footer {
   display: flex;
   justify-content: end;
-  gap: 5px;  
+  gap: 5px;
   padding-inline-end: 25px;
   padding-block-end: 25px;
 }
-
 
 .card__icon-button {
   border: transparent 2px solid;
@@ -132,7 +131,7 @@
   font-size: 0px;
   background-color: transparent;
   transition-timing-function: linear;
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .card__icon-button:focus {
