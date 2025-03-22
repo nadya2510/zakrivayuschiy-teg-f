@@ -37,7 +37,7 @@
     transparent 4px
   );
 
-  --background-fon: linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
+  --background-top-bottom-color: linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
 }
 
 @media (width < 376px) {
