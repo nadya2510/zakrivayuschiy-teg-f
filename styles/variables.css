@@ -2,7 +2,7 @@
   --main-font: "Inter";
   --main-wght-title: 700;
   --main-wght-text: 400;
-  --accent-font: "PressStart2P"; 
+  --accent-font: "PressStart2P";
   --main-font-color: #000;
   --main-background-color: #fff;
   --background-image: url(../images/background.png);
@@ -17,8 +17,7 @@
   --dialog-padding-inline: 30px;
   --button-color: #fff;
   --heart-contour: #000;
-  --heart-color: #FF0000;
-
+  --heart-color: #ff0000;
 
   --background-left-right: repeating-linear-gradient(
     to right,
@@ -38,19 +37,15 @@
     transparent 4px
   );
 
-  --background-fon: linear-gradient(
-    to bottom,
-    #e7e7e7 0.01%,
-    #1a1a1a
-  );
+  --background-fon: linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
 }
 
 @media (width < 376px) {
-  :root{
+  :root {
     --heder-padding-block: 120px;
     --footer-but-flex-direction: column;
     --footer-but-align-items: center;
     --floppy-save-size: 28px;
     --dialog-padding-inline: 41px;
-   }
+  }
 }

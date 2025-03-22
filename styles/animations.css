@@ -10,7 +10,6 @@
 
 */
 
-
 @keyframes animation-heart {
   100% {
     transform: scale(1.25);
@@ -20,24 +19,24 @@
 
 @keyframes animation-core {
   100% {
-    fill:  var(--heart-color, #ff0000);  
+    fill: var(--heart-color, #ff0000);
   }
 }
 
 @keyframes animation-main-body {
   100% {
-    fill:  var(--heart-color, #ff0000);  
+    fill: var(--heart-color, #ff0000);
   }
 }
 
 @keyframes animation-contour {
   100% {
-    fill:  var(--heart-color, #ff0000);  
+    fill: var(--heart-color, #ff0000);
   }
 }
 
 @keyframes animation-sparks {
   100% {
-    filter:  opacity(1);  
+    filter: opacity(1);
   }
 }
