@@ -12,8 +12,7 @@
 
 @keyframes animation-heart {
   100% {
-    transform: scale(1.25);
-    transform-origin: center;
+    transform: scale(1.25);   
   }
 }
 
